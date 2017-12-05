@@ -147,8 +147,8 @@ body {
     line-height: 1.5;
     margin: auto;
     width: 100%;
-    padding-left: 120;
-    padding-right: 120;
+    padding-left: 115;
+    padding-right: 115;
 }
 
 .logos-section {
@@ -525,7 +525,7 @@ ul {
 .link
 {
    color:white;
-   text-decoration: none; 
+   text-decoration: none;
    background-color: none;
 }
 

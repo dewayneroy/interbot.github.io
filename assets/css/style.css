@@ -230,11 +230,15 @@ body {
 }
 
 .feature-head-text {
+    font-weight: 200;
+    font-size: 24px;
     color: white;
     padding-top: 15px;
 }
 
 .feature-subtext {
+    font-weight: 100;
+    font-size: 18px;
     color: white;
     padding-top: 0;
 }

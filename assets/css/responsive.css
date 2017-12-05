@@ -73,16 +73,17 @@
     .white-section-text {
         text-align: justify;
         padding-top: 80px;
-        padding-left: 100px;
+        /*padding-left: 100px;*/
     }
 
     .imac-section-desc {
         font-weight: 300;
         font-size: 15px;
         line-height: 30px;
-        max-width: 400px;
+        /*max-width: 400px;*/
+        width: 100%;
         margin: inherit;
-        text-align: left;
+        text-align: center;
     }
 
     .pricing-table {

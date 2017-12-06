@@ -147,6 +147,8 @@ body {
     line-height: 1.5;
     margin: auto;
     width: 100%;
+    padding-left: 18px;
+    padding-right: 18px;
 }
 
 .logos-section {
